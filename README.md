@@ -10,7 +10,7 @@
 - **CPU** -  i7-13700k
 - **GPU** - AMD Radeon RX 5600-XT
     - ```agdpmod=pikera``` boot-args needed (config.plist  NVRAM $\rightarrow$ 7C436110-AB2A-4BBB-A880-FE41995C9F82 $\rightarrow$ boot-args) 
-- **SMBIOS** - MacPro7,1
+- **SMBIOS** - MacPro7,1  (iMacPro1,1 giving blank screen after boot)
 ---
 
 **Hide EFI boot option**
