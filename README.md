@@ -19,4 +19,7 @@
 **Skip boot picker**
 + config.plist $\rightarrow$ Misc $\rightarrow$ Boot $\rightarrow$ ShowPicker = False
 ---
-
+**Tools**
+[ProperTree](https://github.com/corpnewt/ProperTree) - GUI plist editor
+[MountEFI](https://github.com/corpnewt/MountEFI) - EFI partition mount script
+[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist. 
