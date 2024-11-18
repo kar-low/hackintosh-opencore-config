@@ -7,7 +7,7 @@
     
     - **Network**: Dragon RTL8125BG - needs ```LucyRTL8125Ethernet.kext```
 ---
-- **CPU** -  i7-13700k
+- **CPU** - i7-13700k (using all P-cores and E-cores)
 - **GPU** - AMD Radeon RX 5600-XT
     - ```agdpmod=pikera``` boot-args needed (config.plist  NVRAM $\rightarrow$ 7C436110-AB2A-4BBB-A880-FE41995C9F82 $\rightarrow$ boot-args) 
 - **SMBIOS** - MacPro7,1  (iMacPro1,1 giving blank screen after boot)
